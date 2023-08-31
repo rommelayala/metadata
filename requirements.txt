@@ -1,0 +1,10 @@
+cffi==1.15.1
+ExifRead==3.0.0
+Pillow==10.0.0
+pycparser==2.21
+pyheif==0.7.1
+cffi==1.15.1
+ExifRead==3.0.0
+Pillow==10.0.0
+pycparser==2.21
+pyheif==0.7.1
